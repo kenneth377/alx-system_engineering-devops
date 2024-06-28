@@ -1,0 +1,1 @@
+Server configuration management is a solution for turning your infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused. 
